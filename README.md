@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">Mid Frontend Developer from Poland</h3>
+<h3 align="left">Mid Frontend Developer from Poland</h3>
 
 - 👨‍💻 My personal portfolio [https://patryk-dorau.netlify.app/](https://patryk-dorau.netlify.app/)
 
