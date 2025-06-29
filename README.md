@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="left">Mid Frontend Developer from Poland</h3>
 
+<p>There is not much going on here, better visit my portfolio!</p>
+
 - 👨‍💻 My personal portfolio [https://patryk-dorau.netlify.app/](https://patryk-dorau.netlify.app/)
 
 - 📫 How to reach me **dorau.patryk1@gmail.com**
